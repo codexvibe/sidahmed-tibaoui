@@ -2,7 +2,7 @@
 
 Bienvenue sur mon portfolio ! Je suis **Sidahmed Tibaoui** (CODEXVIBE), développeur **Full Stack** passionné par la création de solutions web modernes, performantes et centrées sur l'expérience utilisateur.
 
-🔗 **Accéder au portfolio** → [codexvibe.github.io/sidahmed-tibaoui](https://codexvibe.github.io/sidahmed-tibaoui) *(à venir)*
+🔗 **Accéder au portfolio** → [codexvibe.github.io/sidahmed-tibaoui](https://codexvibe.github.io/sidahmed-tibaoui)
 
 ---
 
